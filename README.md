@@ -1,5 +1,18 @@
 # icRogue
 
+<p align="center">
+<table>
+  <tr>
+    <td><img src="screenshot1.png" width="200" /></td>
+    <td><img src="screenshot2.png" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="screenshot3.png" width="200" /></td>
+    <td><img src="screenshot4.png" width="200" /></td>
+  </tr>
+</table>
+</p>
+
 ## Introduction
 **icRogue** is a dungeon exploration game developed as part of a first-year introductory programming course. The objective is to navigate through a mysterious castle, collect items, battle enemies, and ultimately defeat the final boss, Mew. Along the way, players will encounter various rooms containing treasures, challenges, and a merchant who offers valuable upgrades.
 
@@ -69,21 +82,6 @@ Mew follows a **square movement pattern** and attacks at regular intervals using
 - **Enjoy the Game!** While icRogue is not quite a Zelda, it offers an engaging dungeon-crawling experience.
 
 ---
-
-## Screenshots
-
-<p align="center">
-<table>
-  <tr>
-    <td><img src="screenshot1.png" width="200" /></td>
-    <td><img src="screenshot2.png" width="200" /></td>
-  </tr>
-  <tr>
-    <td><img src="screenshot3.png" width="200" /></td>
-    <td><img src="screenshot4.png" width="200" /></td>
-  </tr>
-</table>
-</p>
 
 Enjoy exploring, battling, and conquering the dungeon in **icRogue**!
 
