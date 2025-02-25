@@ -1,7 +1,7 @@
 # icRogue
 
 <p align="center">
-<table>
+<table align="center">
   <tr>
     <td><img src="screenshot1.png" width="200" /></td>
     <td><img src="screenshot2.png" width="200" /></td>
