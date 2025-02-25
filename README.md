@@ -14,7 +14,9 @@
 </p>
 
 ## Introduction
-**icRogue** is a dungeon exploration game developed as part of a first-year introductory programming course. The objective is to navigate through a mysterious castle, collect items, battle enemies, and ultimately defeat the final boss, Mew. Along the way, players will encounter various rooms containing treasures, challenges, and a merchant who offers valuable upgrades.
+**icRogue** is a dungeon exploration game developed as part of a first-year introductory programming course at EPFL. The objective is to navigate through a mysterious castle, collect items, battle enemies, and ultimately defeat the final boss, Mew. Along the way, players will encounter various rooms containing treasures, challenges, and a merchant who offers valuable upgrades.
+
+Special thanks to Prof. Jamila Sam for the project idea and for developping the game engine. The project is joint effort with my friend Yassine El Graoui.
 
 ## Gameplay
 ### Objective
